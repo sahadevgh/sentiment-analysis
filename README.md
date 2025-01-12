@@ -24,7 +24,7 @@ A Python program for analyzing customer reviews to classify sentiments (Positive
 
 ## Installation
 
-1. Clone this in a jupyter notebook repository:
+1. Clone this in a jupyter notebook terminal:
    ```bash
    git clone https://github.com/sahadevgh/sentiment-analysis.git
    ```
@@ -35,9 +35,9 @@ A Python program for analyzing customer reviews to classify sentiments (Positive
 
 1. Use the available dataset for testing (e.g., `reviews.csv`), or Place your own dataset in the project folder.
 2. The dataset contains customer reviews in a single column labeled `review`. Replace the sample dataset with your own for custom analysis.
-3. Run the script:
+3. Run the cell with the main code:
    ```bash
-   python sentiment_analysis.py
+   sentiment_analysis.ipynb
    ```
 4. View the output, including sentiment distribution and word cloud visualizations.
 
