@@ -26,7 +26,7 @@ A Python program for analyzing customer reviews to classify sentiments (Positive
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/sentiment-analysis.git
+   git clone https://github.com/sahadevgh/sentiment-analysis.git
    ```
 
 2. Navigate to the project directory:
@@ -54,7 +54,7 @@ A Python program for analyzing customer reviews to classify sentiments (Positive
 
 ## Dataset
 
-The dataset contains customer reviews in a single column labeled `text`. Replace the sample dataset with your own for custom analysis.
+The dataset contains customer reviews in a single column labeled `review`. Replace the sample dataset with your own for custom analysis.
 
 ---
 
